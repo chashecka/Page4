@@ -1,7 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: black;
-}
+    background-image: linear-gradient(rgb(0, 0, 0),rgb(58, 54, 54));
 
 header {
     background-image: url(https://www.tufishop.com.ua/images/thumbnails/1000/1000/detailed/120/mak_2.jpg);
